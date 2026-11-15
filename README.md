@@ -1,0 +1,2 @@
+# mediawiki-audit-mcp
+Test
